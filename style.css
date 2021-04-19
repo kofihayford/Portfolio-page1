@@ -2,5 +2,34 @@
     margin: auto;
 }
 
+.project1 {
+    background-image: url("./assets/Project1.png");
+    background-size: cover;
+}
 
+
+.project2 {
+    background-image: url("./COPY RELATIVE PATH");
+    background-size: cover;
+}
+
+.project3 {
+    background-image: url("./COPY RELATIVE PATH");
+    background-size: cover;
+}
+
+.project4 {
+    background-image: url("./COPY RELATIVE PATH");
+    background-size: cover;
+}
+
+.project5 {
+    background-image: url("./COPY RELATIVE PATH");
+    background-size: cover;
+}
+
+.project6 {
+    background-image: url("./COPY RELATIVE PATH");
+    background-size: cover;
+}
 
